@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Himalayan</title>
+</head>
+<body>
+<form action="koneksi.php" method="post">
+<p>TAMBAH DATA Kucing</p>
+<p>
+Nama : <input type="varchar" name="nama"> <br>
+Jenis : <input type="varchar" name="jenis"> <br>
+</p>
+<input type="submit" name="simpan" value="Simpan">
+</form>
+</body>
+</html>
